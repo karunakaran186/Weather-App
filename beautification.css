@@ -78,7 +78,7 @@ h1.temp {
 
 .weather.loading:after {
   visibility: visible;
-  content: "Know your weather";
+  content: "Know your weather - Developed by Karunakaran v";
   color: Black;
   position: absolute;
   top: 0;
