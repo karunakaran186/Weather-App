@@ -5,7 +5,7 @@ body {
   height: 100vh;
   margin: 0;
   font-family: 'Open Sans', sans-serif;
-  background: #222;
+  background: black;
   background-image: url('https://www.angouleme-agenda.com/wp-content/uploads/sites/4/2021/11/35241530_ml-1600x900.jpg');
   font-size: 120%;
 }
