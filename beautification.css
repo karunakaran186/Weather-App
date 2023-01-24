@@ -80,7 +80,7 @@ h1.temp {
   visibility: visible;
   content: "Know your weather by Karunakaran v";
   color: Black;
-  position: absolute;
+  position: relative;
   top: 5;
   left: 20px;
 }
