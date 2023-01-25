@@ -12,9 +12,6 @@ let weather = {
             alert("No weather found.");
             throw new Error("No weather found.");
           }
-          else if (response.Bad Request) {
-              alert("You have entered an latitude else longtitude of the place", "please enter the name of the place");
-              throw new Error("You have entered an latitude else longtitude of the place", "please enter the name of the place".);
               return response.json();
         })
         .then((data) => this.displayWeather(data));
