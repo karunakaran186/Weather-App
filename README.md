@@ -1,5 +1,5 @@
 # Weather-App
 
-weather-app-karunakaran.netlify.app
+https://knowyourweather-karunakaran.netlify.app/
 
          Know your weather!
